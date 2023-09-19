@@ -1,0 +1,56 @@
+body {
+    font-family:Nunito Sans;
+    padding: 0;
+    margin: 0;
+    background-color: hsl(212, 46%, 89%);
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    margin: 2em auto;
+    background-color: hsl(212, 46%, 89%);
+    padding: 50px 0px 50px 0px;
+}
+
+.container {
+    display: inline-block;
+    justify-content: center;
+    align-content: center;
+    border-radius: 15px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    background-color: hsl(0, 0%, 100%);
+
+}
+
+.QRimg {
+    justify-content: center;
+    align-content: center;
+    border-radius: 10px;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border-radius: 30px;
+    
+}
+.text {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: hsl(218, 44%, 22%) ;
+}
+
+.text2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 14px;
+    margin-top: -15px;
+    font-weight: bold;
+    color: hsl(220, 15%, 55%);
+}
